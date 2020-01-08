@@ -1,1 +1,1 @@
-Changed the online message locally
+Changed the local message online
